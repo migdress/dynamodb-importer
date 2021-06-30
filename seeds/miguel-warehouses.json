@@ -1,0 +1,28 @@
+[
+    {
+        "id": "warehouse-1",
+        "warehouse_id": "dash-warehouse-1",
+        "warehouse_name": "warehouse-name-1",
+        "city_id": "city-1",
+        "city_name": "city-name-1",
+        "picking_type": "zones",
+        "max_routes_per_picker": 1,
+        "max_items_per_route": 5,
+        "cold_positions_start": 1,
+        "cold_positions_end": 5,
+        "cold_positions_heights": [
+            "A",
+            "B"
+        ],
+        "dry_positions_start": 6,
+        "dry_positions_end": 20,
+        "dry_positions_heights": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "active": 1,
+        "creation_date": "2020-02-02T10:27:00+0000"
+    }
+]

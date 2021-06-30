@@ -1,0 +1,20 @@
+[
+    {
+        "id": "91da1e96-7327-47e0-bd17-69c99f1a50f2",
+        "departure": "2019-11-26T09:00:00+0000",
+        "seats": [
+            {
+                "id": "32f5c61e-64c7-46b4-aab1-257d289efe04",
+                "letter": "A",
+                "passenger_id": "-",
+                "row": "1"
+            },
+            {
+                "id": "32f5c61e-64c7-46b4-aab1-257d289efe04",
+                "letter": "B",
+                "passenger_id": "-",
+                "row": "1"
+            }
+        ]
+    }
+]
